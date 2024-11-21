@@ -1,7 +1,10 @@
 ### HOW TO RUN
+
 javac *.java
-java Main.java n //where n is the number of test case from 1 to 10
-Ex: java Main.java 1 //run test case 1
+
+java Main.java n (where n is the number of test case from 1 to 10)
+
+Ex: java Main.java 1 (run test case 1)
 
 ## Note: 
 Propose values are unique
